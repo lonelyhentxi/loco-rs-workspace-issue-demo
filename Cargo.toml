@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "crates/loco_app1",
+    "crates/loco_app2",
+    "crates/loco_app1_migration",
+    "crates/loco_app2_migration",
+    "crates/share_lib"
+]
+resolver = "2"

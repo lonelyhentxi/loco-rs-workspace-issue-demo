@@ -1,0 +1,5 @@
+[alias]
+loco-app1 = "run -p loco_app1 --bin loco_app1_cli -- --environment loco_app1.development"
+loco-app1-playground = "run -p loco_app1 --example playground -- --environment loco_app1.development"
+loco-app2 = "run -p loco_app2 --bin loco_app2_cli -- --environment loco_app2.development"
+loco-app2-playground = "run -p loco_app2 --example playground -- --environment loco_app2.development"
